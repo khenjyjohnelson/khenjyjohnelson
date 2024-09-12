@@ -21,6 +21,68 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/omnitags.me/](https://www.instagram.com/omnitags.me/)
 
+## 🌐 Explore My Categories:
+
+### 🎓 College Projects  
+This repository includes code and notes from my academic journey.  
+[**khenjy-college**](https://github.com/khenjy-college)
+
+### 🎓 Scholarship Tools  
+Here I explore tools and resources that help with applying to and managing scholarships.  
+[**khenjy-scholarship**](https://github.com/khenjy-scholarship)
+
+### 💼 Internship Projects  
+A collection of projects and tools I worked on during various internships.  
+[**khenjy-internship**](https://github.com/khenjy-internship)
+
+### 🏢 Work-Related Projects  
+These repositories house work-related projects that contribute to my professional growth.  
+[**khenjy-work**](https://github.com/khenjy-work)
+
+### 📚 Courses  
+From online courses and certifications, this repository is dedicated to educational growth.  
+[**khenjy-courses**](https://github.com/khenjy-courses)
+
+### 💻 Personal Projects  
+This collection is home to my passion projects and open-source contributions.  
+[**khenjy-project**](https://github.com/khenjy-project)
+
+### 🏆 Competitions  
+Projects submitted for various coding and hackathon competitions.  
+[**khenjy-competition**](https://github.com/khenjy-competition)
+
+### 🛠 Organization Tools  
+Management tools and dashboards built for organizations I've been part of.  
+[**khenjy-organization**](https://github.com/khenjy-organization)
+
+### 🎤 Seminars and Workshops  
+Code, notes, and presentations from the seminars and workshops I’ve attended or led.  
+[**khenjy-seminar**](https://github.com/khenjy-seminar)
+
+### 🏫 School Projects  
+Code and resources from school-related projects across multiple years.  
+[**khenjy-school**](https://github.com/khenjy-school)
+
+### 🌱 Personal Growth  
+Projects and ideas related to self-improvement and hobby exploration.  
+[**khenjy-personal**](https://github.com/khenjy-personal)
+
+### 🗂 Collections  
+Here I manage various collections of resources, tools, and libraries I’ve used or curated.  
+[**khenjy-collections**](https://github.com/khenjy-collections)
+
+---
+
+## ✨ Why I Rarely Push to the Main Repository
+
+You may notice that I don’t push directly to this main repository as often. This is because I believe in **keeping my projects well-organized** across different aspects of my life. Each category listed above represents a distinct part of my journey, and separating them helps me stay focused and deliver better outcomes. I want my GitHub to be a true reflection of my structured approach to learning, working, and growing.
+
+---
+
+## 📫 Connect with Me
+
+Feel free to explore my repositories, and if something resonates with you, don’t hesitate to reach out!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khenjyjohnelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khenjyjohnelson" height="30" width="40" /></a>
