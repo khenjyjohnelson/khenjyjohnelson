@@ -30,14 +30,38 @@ You may notice that I don’t push directly to this main repository as often. Th
 ---
 ## 🌐 Explore My Categories:
 
-|----------------------------|----------------------------|
-| 🎓 [College Projects](https://github.com/khenjy-college) <br> This repository includes code and notes from my academic journey. | 🏆 [Competitions](https://github.com/khenjy-competition) <br> Projects submitted for various coding and hackathon competitions. |
-| 🎓 [Scholarship Tools](https://github.com/khenjy-scholarship) <br> Here I explore tools and resources that help with applying to and managing scholarships. | 🛠 [Organization Tools](https://github.com/khenjy-organization) <br> Management tools and dashboards built for organizations I've been part of. |
-| 💼 [Internship Projects](https://github.com/khenjy-internship) <br> A collection of projects and tools I worked on during various internships. | 🎤 [Seminars and Workshops](https://github.com/khenjy-seminar) <br> Code, notes, and presentations from the seminars and workshops I’ve attended or led. |
-| 🏢 [Work-Related Projects](https://github.com/khenjy-work) <br> These repositories house work-related projects that contribute to my professional growth. | 🏫 [School Projects](https://github.com/khenjy-school) <br> Code and resources from school-related projects across multiple years. |
-| 📚 [Courses](https://github.com/khenjy-courses) <br> From online courses and certifications, this repository is dedicated to educational growth. | 🌱 [Personal Growth](https://github.com/khenjy-personal) <br> Projects and ideas related to self-improvement and hobby exploration. |
-| 💻 [Personal Projects](https://github.com/khenjy-project) <br> This collection is home to my passion projects and open-source contributions. | 🗂 [Collections](https://github.com/khenjy-collections) <br> Here I manage various collections of resources, tools, and libraries I’ve used or curated. |
-
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <strong>🎓 [College Projects](https://github.com/khenjy-college)</strong><br>
+      This repository includes code and notes from my academic journey.<br><br>
+      <strong>🎓 [Scholarship Tools](https://github.com/khenjy-scholarship)</strong><br>
+      Here I explore tools and resources that help with applying to and managing scholarships.<br><br>
+      <strong>💼 [Internship Projects](https://github.com/khenjy-internship)</strong><br>
+      A collection of projects and tools I worked on during various internships.<br><br>
+      <strong>🏢 [Work-Related Projects](https://github.com/khenjy-work)</strong><br>
+      These repositories house work-related projects that contribute to my professional growth.<br><br>
+      <strong>📚 [Courses](https://github.com/khenjy-courses)</strong><br>
+      From online courses and certifications, this repository is dedicated to educational growth.<br><br>
+      <strong>💻 [Personal Projects](https://github.com/khenjy-project)</strong><br>
+      This collection is home to my passion projects and open-source contributions.
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <strong>🏆 [Competitions](https://github.com/khenjy-competition)</strong><br>
+      Projects submitted for various coding and hackathon competitions.<br><br>
+      <strong>🛠 [Organization Tools](https://github.com/khenjy-organization)</strong><br>
+      Management tools and dashboards built for organizations I've been part of.<br><br>
+      <strong>🎤 [Seminars and Workshops](https://github.com/khenjy-seminar)</strong><br>
+      Code, notes, and presentations from the seminars and workshops I’ve attended or led.<br><br>
+      <strong>🏫 [School Projects](https://github.com/khenjy-school)</strong><br>
+      Code and resources from school-related projects across multiple years.<br><br>
+      <strong>🌱 [Personal Growth](https://github.com/khenjy-personal)</strong><br>
+      Projects and ideas related to self-improvement and hobby exploration.<br><br>
+      <strong>🗂 [Collections](https://github.com/khenjy-collections)</strong><br>
+      Here I manage various collections of resources, tools, and libraries I’ve used or curated.
+    </td>
+  </tr>
+</table>
 
 ---
 
