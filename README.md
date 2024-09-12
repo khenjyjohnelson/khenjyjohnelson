@@ -31,6 +31,10 @@ You may notice that I don’t push directly to this main repository as often. Th
 
 ## 🌐 Explore My Categories:
 
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 48%;">
+
 ### 🎓 College Projects  
 This repository includes code and notes from my academic journey.  
 [**khenjy-college**](https://github.com/khenjy-college)
@@ -55,7 +59,9 @@ From online courses and certifications, this repository is dedicated to educatio
 This collection is home to my passion projects and open-source contributions.  
 [**khenjy-project**](https://github.com/khenjy-project)
 
----
+</div>
+
+<div style="width: 48%;">
 
 ### 🏆 Competitions  
 Projects submitted for various coding and hackathon competitions.  
@@ -81,7 +87,9 @@ Projects and ideas related to self-improvement and hobby exploration.
 Here I manage various collections of resources, tools, and libraries I’ve used or curated.  
 [**khenjy-collections**](https://github.com/khenjy-collections)
 
+</div>
 
+</div>
 ---
 
 ## 📫 Connect with Me
