@@ -30,52 +30,15 @@ You may notice that I don’t push directly to this main repository as often. Th
 ---
 ## 🌐 Explore My Categories:
 
-<table>
-  <tr>
-    <td>
+|                            |                            |
+|----------------------------|----------------------------|
+| 🎓 [College Projects](https://github.com/khenjy-college) <br> This repository includes code and notes from my academic journey. | 🏆 [Competitions](https://github.com/khenjy-competition) <br> Projects submitted for various coding and hackathon competitions. |
+| 🎓 [Scholarship Tools](https://github.com/khenjy-scholarship) <br> Here I explore tools and resources that help with applying to and managing scholarships. | 🛠 [Organization Tools](https://github.com/khenjy-organization) <br> Management tools and dashboards built for organizations I've been part of. |
+| 💼 [Internship Projects](https://github.com/khenjy-internship) <br> A collection of projects and tools I worked on during various internships. | 🎤 [Seminars and Workshops](https://github.com/khenjy-seminar) <br> Code, notes, and presentations from the seminars and workshops I’ve attended or led. |
+| 🏢 [Work-Related Projects](https://github.com/khenjy-work) <br> These repositories house work-related projects that contribute to my professional growth. | 🏫 [School Projects](https://github.com/khenjy-school) <br> Code and resources from school-related projects across multiple years. |
+| 📚 [Courses](https://github.com/khenjy-courses) <br> From online courses and certifications, this repository is dedicated to educational growth. | 🌱 [Personal Growth](https://github.com/khenjy-personal) <br> Projects and ideas related to self-improvement and hobby exploration. |
+| 💻 [Personal Projects](https://github.com/khenjy-project) <br> This collection is home to my passion projects and open-source contributions. | 🗂 [Collections](https://github.com/khenjy-collections) <br> Here I manage various collections of resources, tools, and libraries I’ve used or curated. |
 
-- 🎓 [College Projects](https://github.com/khenjy-college)  
-  This repository includes code and notes from my academic journey.  
-
-- 🎓 [Scholarship Tools](https://github.com/khenjy-scholarship)  
-  Here I explore tools and resources that help with applying to and managing scholarships.  
-
-- 💼 [Internship Projects](https://github.com/khenjy-internship)  
-  A collection of projects and tools I worked on during various internships.  
-
-- 🏢 [Work-Related Projects](https://github.com/khenjy-work)  
-  These repositories house work-related projects that contribute to my professional growth.  
-
-- 📚 [Courses](https://github.com/khenjy-courses)  
-  From online courses and certifications, this repository is dedicated to educational growth.  
-
-- 💻 [Personal Projects](https://github.com/khenjy-project)  
-  This collection is home to my passion projects and open-source contributions.  
-
-    </td>
-    <td>
-
-- 🏆 [Competitions](https://github.com/khenjy-competition)  
-  Projects submitted for various coding and hackathon competitions.  
-
-- 🛠 [Organization Tools](https://github.com/khenjy-organization)  
-  Management tools and dashboards built for organizations I've been part of.  
-
-- 🎤 [Seminars and Workshops](https://github.com/khenjy-seminar)  
-  Code, notes, and presentations from the seminars and workshops I’ve attended or led.  
-
-- 🏫 [School Projects](https://github.com/khenjy-school)  
-  Code and resources from school-related projects across multiple years.  
-
-- 🌱 [Personal Growth](https://github.com/khenjy-personal)  
-  Projects and ideas related to self-improvement and hobby exploration.  
-
-- 🗂 [Collections](https://github.com/khenjy-collections)  
-  Here I manage various collections of resources, tools, and libraries I’ve used or curated.  
-
-    </td>
-  </tr>
-</table>
 
 ---
 
