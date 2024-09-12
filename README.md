@@ -29,7 +29,6 @@ You may notice that I don’t push directly to this main repository as often. Th
 
 ---
 ## 🌐 Explore My Categories:
-## 🌐 Explore My Categories:
 
 <table>
   <tr>
