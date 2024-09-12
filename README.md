@@ -21,6 +21,14 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/omnitags.me/](https://www.instagram.com/omnitags.me/)
 
+---
+
+## ✨ Why I Rarely Push to the Main Repository
+
+You may notice that I don’t push directly to this main repository as often. This is because I believe in **keeping my projects well-organized** across different aspects of my life. Each category listed below represents a distinct part of my journey, and separating them helps me stay focused and deliver better outcomes. I want my GitHub to be a true reflection of my structured approach to learning, working, and growing. I also use it to help me push commit multiple projects with the same category in each htdocs subfolders to make me only need to push once in github.
+
+---
+
 ## 🌐 Explore My Categories:
 
 ### 🎓 College Projects  
@@ -47,6 +55,8 @@ From online courses and certifications, this repository is dedicated to educatio
 This collection is home to my passion projects and open-source contributions.  
 [**khenjy-project**](https://github.com/khenjy-project)
 
+---
+
 ### 🏆 Competitions  
 Projects submitted for various coding and hackathon competitions.  
 [**khenjy-competition**](https://github.com/khenjy-competition)
@@ -71,11 +81,6 @@ Projects and ideas related to self-improvement and hobby exploration.
 Here I manage various collections of resources, tools, and libraries I’ve used or curated.  
 [**khenjy-collections**](https://github.com/khenjy-collections)
 
----
-
-## ✨ Why I Rarely Push to the Main Repository
-
-You may notice that I don’t push directly to this main repository as often. This is because I believe in **keeping my projects well-organized** across different aspects of my life. Each category listed above represents a distinct part of my journey, and separating them helps me stay focused and deliver better outcomes. I want my GitHub to be a true reflection of my structured approach to learning, working, and growing.
 
 ---
 
