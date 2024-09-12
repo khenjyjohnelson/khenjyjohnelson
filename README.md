@@ -30,7 +30,6 @@ You may notice that I don’t push directly to this main repository as often. Th
 ---
 ## 🌐 Explore My Categories:
 
-|                            |                            |
 |----------------------------|----------------------------|
 | 🎓 [College Projects](https://github.com/khenjy-college) <br> This repository includes code and notes from my academic journey. | 🏆 [Competitions](https://github.com/khenjy-competition) <br> Projects submitted for various coding and hackathon competitions. |
 | 🎓 [Scholarship Tools](https://github.com/khenjy-scholarship) <br> Here I explore tools and resources that help with applying to and managing scholarships. | 🛠 [Organization Tools](https://github.com/khenjy-organization) <br> Management tools and dashboards built for organizations I've been part of. |
