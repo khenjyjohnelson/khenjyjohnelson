@@ -21,11 +21,6 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/omnitags.me/](https://www.instagram.com/omnitags.me/)
 
----
-
-## ✨ Why I Rarely Push to the Main Repository
-
-You may notice that I don’t push directly to this main repository as often. This is because I believe in **keeping my projects well-organized** across different aspects of my life. Each category listed below represents a distinct part of my journey, and separating them helps me stay focused and deliver better outcomes. I want my GitHub to be a true reflection of my structured approach to learning, working, and growing. I also use it to help me push commit multiple projects with the same category in each htdocs subfolders to make me only need to push once in github.
 
 ---
 ## 🌐 Explore My Categories:
