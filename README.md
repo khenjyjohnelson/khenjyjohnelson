@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on [Hotel Website](hotelkhenjy.com)
+- 👯 I’m looking to collaborate on [Omnitags Project](https://github.com/khenjyjohnelson/omnitags)
 
 - 🤝 I’m looking for help with [Codeigniter 3 + Firebase](https://github.com/khenjy-college/htdocs/tree/main/college_firebase)
 
