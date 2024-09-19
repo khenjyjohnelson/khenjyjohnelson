@@ -5,22 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khenjyjohnelson" alt="khenjyjohnelson" /></a> </p>
 
-- 🔭 I’m currently working on [College Website](hotelkhenjy.com/uvers_tpl)
-
 - 🌱 I’m currently learning **Laravel**
-
 - 👯 I’m looking to collaborate on [Omnitags Project](https://github.com/khenjyjohnelson/omnitags)
-
 - 🤝 I’m looking for help with [Codeigniter 3 + Firebase](https://github.com/khenjy-college/htdocs/tree/main/college_firebase)
-
 - 👨‍💻 All of my projects are available at [https://khenjy.carrd.co/](https://khenjy.carrd.co/)
-
 - 💬 Ask me about **Codeigniter 3, PHP, Omnitags**
-
 - 📫 How to reach me **khenjyjohnelson.work@gmail.com**
-
 - 📄 Know about my experiences [https://www.instagram.com/omnitags.me/](https://www.instagram.com/omnitags.me/)
-
 
 ---
 ## 🌐 Explore My Categories:
