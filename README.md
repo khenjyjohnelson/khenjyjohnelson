@@ -12,42 +12,6 @@
 - 📄 Know about my experiences [https://www.instagram.com/omnitags.me/](https://www.instagram.com/omnitags.me/)
 
 ---
-## 🌐 Explore My Categories:
-
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      🎓 <a href="https://github.com/khenjy-college"><strong>College Projects</strong></a><br>
-      This repository includes code and notes from my academic journey.<br><br>
-      🎓 <a href="https://github.com/khenjy-scholarship"><strong>Scholarship Tools</strong></a><br>
-      Here I explore tools and resources that help with applying to and managing scholarships.<br><br>
-      💼 <a href="https://github.com/khenjy-internship"><strong>Internship Projects</strong></a><br>
-      A collection of projects and tools I worked on during various internships.<br><br>
-      🏢 <a href="https://github.com/khenjy-work"><strong>Work-Related Projects</strong></a><br>
-      These repositories house work-related projects that contribute to my professional growth.<br><br>
-      📚 <a href="https://github.com/khenjy-courses"><strong>Courses</strong></a><br>
-      From online courses and certifications, this repository is dedicated to educational growth.<br><br>
-      💻 <a href="https://github.com/khenjy-project"><strong>Personal Projects</strong></a><br>
-      This collection is home to my passion projects and open-source contributions.
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      🏆 <a href="https://github.com/khenjy-competition"><strong>Competitions</strong></a><br>
-      Projects submitted for various coding and hackathon competitions.<br><br>
-      🛠 <a href="https://github.com/khenjy-organization"><strong>Organization Tools</strong></a><br>
-      Management tools and dashboards built for organizations I've been part of.<br><br>
-      🎤 <a href="https://github.com/khenjy-seminar"><strong>Seminars and Workshops</strong></a><br>
-      Code, notes, and presentations from the seminars and workshops I’ve attended or led.<br><br>
-      🏫 <a href="https://github.com/khenjy-school"><strong>School Projects</strong></a><br>
-      Code and resources from school-related projects across multiple years.<br><br>
-      🌱 <a href="https://github.com/khenjy-personal"><strong>Personal Growth</strong></a><br>
-      Projects and ideas related to self-improvement and hobby exploration.<br><br>
-      🗂 <a href="https://github.com/khenjy-collections"><strong>Collections</strong></a><br>
-      Here I manage various collections of resources, tools, and libraries I’ve used or curated.
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📫 Connect with Me
 
